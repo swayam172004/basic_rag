@@ -151,7 +151,7 @@ This project is licensed under the **MIT License**. Feel free to use and modify 
 ## 👤 Author
 
 **Swayam Singh Sikarwar**
-📧 Contact: *Add your email*
+📧 Contact: swayamsikharwar@gmail.com
 🔗 GitHub: [https://github.com/swayam172004](https://github.com/swayam172004)
 
 ---
