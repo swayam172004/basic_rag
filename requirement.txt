@@ -1,0 +1,13 @@
+numpy
+pandas
+jupyter
+ipykernel
+langchain
+langchain-community
+langchain-openai
+openai
+sentence-transformers
+faiss-cpu
+scikit-learn
+tqdm
+python-dotenv
